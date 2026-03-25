@@ -1,0 +1,8 @@
+{
+	"devDependencies": {
+		"baseline-browser-mapping": "^2.10.10"
+	},
+	"dependencies": {
+		"bcryptjs": "^3.0.3"
+	}
+}
